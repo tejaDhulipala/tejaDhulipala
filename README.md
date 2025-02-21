@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejaDhulipala
-- 👀 I’m interested in robotics with java programming and war thunder
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in robotics with java programming and Python 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me . . .
 
