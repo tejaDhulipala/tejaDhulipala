@@ -23,4 +23,4 @@ I'm passionate about machine learning research (particularly reinforcement learn
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/teja-dhulipala-565273298) [Email](tejad@stanford.edu)
+tejad@stanford.edu [LinkedIn](https://www.linkedin.com/in/teja-dhulipala-565273298) 
