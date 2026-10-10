@@ -1,6 +1,6 @@
 Hi, I'm Teja!
 
-I'm passionate about machine learning research (particularly reinforcement learning and improving LLM trustworthiness) and how advances in ML can be applied to aviation. I'm a student at Stanford studying CS, math, or aeronautics & astronautics, and a private pilot, which is where a lot of my project ideas come from.
+I'm passionate about machine learning research (some particular interests are reinforcement learning and improving LLM trustworthiness) and how advances in ML can be applied to aviation. I'm a student at Stanford studying CS, math, or aeronautics & astronautics, and a private pilot, which is where a lot of my project ideas come from.
 
 ## Projects
 
