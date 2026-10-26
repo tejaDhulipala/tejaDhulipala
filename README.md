@@ -17,8 +17,8 @@ I'm passionate about machine learning research (some particular interests are re
 
 ## Tech
 
-- **Languages & Frameworks:** Python, Java, Go, SQL, TypeScript, JavaScript, HTML/CSS, Bash, LaTeX, React Native, Expo
-- **Machine Learning:** Linear Algebra, CNNs, transformers, random forests, SVMs, K-means, policy & value iteration, anomaly detection
+- **Languages & Frameworks:** Python, C++, Java, SQL, TypeScript, JavaScript, HTML/CSS, Bash, LaTeX
+- **Machine Learning:** Linear Algebra, transformers, CNNs, reinforcement learning, deep learning, random forests, SVMs, K-means, policy & value iteration, anomaly detection
 - **Libraries/Tools:** PyTorch, Git, TensorFlow, Keras, scikit-learn, NumPy, Matplotlib, Gymnasium, OpenCV, Docker
 
 ## Contact
