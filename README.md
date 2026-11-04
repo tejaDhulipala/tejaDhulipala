@@ -1,6 +1,6 @@
 Hi, I'm Teja!
 
-I'm passionate about machine learning research (some particular interests are efficient and specialized local models and improving LLM trustworthiness). I'm a student at Stanford studying CS, math, or aeronautics & astronautics, and a private pilot, which is where a lot of my project ideas come from.
+I'm passionate about machine learning research (some particular interests are efficient and specialized local models and improving LLM trustworthiness). I'm a student at Stanford studying CS, math, or EE, and a private pilot, which is where a lot of my project ideas come from.
 
 ## Projects
 
