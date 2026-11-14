@@ -5,6 +5,7 @@ I'm passionate about machine learning research (some particular interests are ef
 ## Projects
 
 - **[AeroLand](https://github.com/tejaDhulipala/Aviation-Emergencies-Benchmark)**: a benchmark of 50 engine-out emergency scenarios testing whether multimodal LLMs can pick the safest landing site from satellite imagery. The main bottleneck turned out to be terrain identification, not aviation knowledge. [Technical report](https://bit.ly/46T3Sef)
+- **[LLM Watermarking](https://github.com/joaoxbarbosa/ripple-watermarking)**: A text watermarking took built during the Ricursive hackathon (top 8) that uses a secure-key and local context hash to embed statistically significant signals in output text that can be detected in as few at 28 tokens without quality loss. Teammates: @joaoxbarbosa & @azchengg
 - **[Drone Swarm Search Environment enhancements](https://github.com/capstone-insper/drone-swarm-search/pull/278)**: extended an open-source reinforcement learning environment for maritime search and rescue with real ocean current data and Bayesian probability updates to simulate realistic object drift.
 - **[MNIST From Scratch](https://github.com/tejaDhulipala/MNIST-From-Scratch)**: a dense neural network with hand-written forward and backpropagation and no ML libraries, reaching 95.5% test accuracy on MNIST.
 - **[CartPole Methods](https://github.com/tejaDhulipala/CartPole-Methods)**: CartPole solved with the Cross-Entropy Method, Deep Q-learning, and REINFORCE.
